@@ -1,6 +1,8 @@
 # ❔使い方❔
 [Colaboratory で開く](https://colab.research.google.com/drive/1MtLY_0IyvYy4KXSWQWXBXw2_PmZeR1oR?usp=sharing)
 
+[原作 (@Busunekoya)](https://github.com/Busunekoya/AAAnimation-maker)
+
 ## 1. ランタイム→すべてのセルを実行 をクリック
 
 ![すべてのセルを実行](https://user-images.githubusercontent.com/75155258/198333130-6e1f48e4-0c47-4832-9e5c-a4a9c5266a4e.png)
